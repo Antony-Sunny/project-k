@@ -1,0 +1,10 @@
+H2{COLOR: RED}
+BODY{background-color: green;}
+.btn{
+    background-color:white;
+    color: red;
+}
+.btn:hover{
+    background-color: blue;
+    cursor:pointer
+}

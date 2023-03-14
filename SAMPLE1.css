@@ -1,0 +1,22 @@
+*{box-sizing: border-box;}
+.BOX1{
+    background-color: green;
+    color: black;
+    height: 50px;
+    width: 50PX;
+    border: 10px solid rebeccapurple;
+}
+.BOX2{background-color: brown;
+      color: yellow;
+    margin-top: 50PX;
+padding-top: 20PX;
+height: 100px;
+width: 50px;
+margin-bottom: 50px;}
+.BOX3{
+    background-color: green;
+    color: black;
+    height: 50px;
+    width: 50PX;
+    border: 10px solid rebeccapurple;
+}

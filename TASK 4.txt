@@ -1,0 +1,11 @@
+<html>
+<title>linking</title>
+<HEAD><B></B></HEAD>
+<body>
+    <a href="https://www.facebook.com/">CLICK HERE TO VISIT FACEBOOK</a>
+<DIV>
+<a href="https://www.google.com/5">CLICK HERE TO VISIT GOOGLE</a></DIV>
+   <a href="https://www.youtube.com/">CLICK HERE TO VISIT YOUTUBE</a>
+    
+</body>
+</html>
